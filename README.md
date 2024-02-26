@@ -11,7 +11,7 @@
 - [CompTIA CySA+ce Certification](https://www.credly.com/badges/2138a07e-7e40-4cc9-910e-c966b16988b5)
 - [CompTIA Security Analytics Professional CSAP Stackable Certification](https://www.credly.com/badges/0f51ba46-b350-4c7e-85bf-b34f52528833)
 - [ISC2 Certified in Cybersecurity Certification](https://www.credly.com/badges/c23f2a7a-bbf1-4071-a05a-a30a3b5c81ff)
-- [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/df4d3882d768ed4c086ad62ae213868f39ef811d5/cybersecurity-online-part-time)
+- [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/df4d3882d768ed4c086ad62ae213868f39ef811d5)
 
 
 <h2> 🤳 Connect with me:</h2>
